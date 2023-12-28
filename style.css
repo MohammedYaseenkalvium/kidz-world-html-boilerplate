@@ -121,7 +121,13 @@ button{
 .end-credit h3{
     padding: 10px;
 }
-.wrap{
+.main{
+    flex-wrap: wrap;
+}
+.discoverbooks{
+    flex-wrap: wrap;
+}
+.w{
     flex-wrap: wrap;
 }
 @media screen and (max-width:600px){
